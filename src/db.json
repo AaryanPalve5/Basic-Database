@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Aaryan Palve",
+    "email": "doesaspcode@gmail.com",
+    "phone": "1209345768",
+    "github_link": "eg.com",
+    "stopwatch_time": "00:00:04"
+  },
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "github_link": "github.com/johndoe",
+    "stopwatch_time": "00:01:30"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "phone": "9876543210",
+    "github_link": "github.com/janesmith",
+    "stopwatch_time": "00:02:15"
+  },
+  {
+    "name": "Harvey Spectre",
+    "email": "harvey@pearsonspectre.com",
+    "phone": "9023783892",
+    "github_link": "github.com/harveyspecter",
+    "stopwatch_time": "00:00:06"
+  }
+]
