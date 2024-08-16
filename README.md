@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the backend server for the Slidely AI Internship Application task. The backend is built with Express and TypeScript and uses a JSON file (`db.json`) as a database to store form submissions. 
+ The backend is built with Express and TypeScript and uses a JSON file (`db.json`) as a database to store form submissions. 
 
 ## Features
 
@@ -33,19 +33,3 @@ README.md              # This file
 
 
 ```
-
-## Installation
-
-### Prerequisites
-
-- **Node.js** (v14 or higher recommended)
-- **npm** (v6 or higher recommended)
-
-git clone https://github.com/AaryanPalve5/SlidelyTask2-BackendServer
-
-Install Node and dependencies and run this command in the terminal
-
-```npm install ```
-
-```npm run start```
-
